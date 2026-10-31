@@ -27,7 +27,7 @@ export const config: Config = {
       originBlacklist: null,
     },
     server: {
-      host: "wss://play.skyframesmp.dev",
+      host: "play.skyframesmp.dev",
       port: 443,
     },
     tls: undefined,
